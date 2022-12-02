@@ -8,7 +8,7 @@ I'm a sucker for clean and reliable code and I keep myself and my colleagues to 
 I'm passionate about learning and teaching things to others, I've been a private tutor to several people for the last couple of months.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/krasimir-doychinov-684a69225/">
+  <a href="https://www.linkedin.com/in/krasimir-georgiev-doychinov/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:krasimir.doychinovv@gmail.com">
