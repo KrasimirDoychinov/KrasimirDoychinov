@@ -42,6 +42,9 @@ I'm passionate about learning and teaching things to others, I've been a private
 
 ## Read
 Clean Code by Robert C. Martin
+
 JavaScript The Good Parts by Douglas Crockford
+
 Cracking the Coding Interview 6th by Gayle L. McDowell
+
 You Don't Know JS Yet by Kyle Simpson
