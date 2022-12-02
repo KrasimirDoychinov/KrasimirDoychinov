@@ -1,6 +1,6 @@
 # Krasimir Doychinov
 
-**`All things code enthusiast (Back-end developer/Tutor)`**
+**`Software Engineer (Back-end/Tutor)`**
 
 Hey there,
 I'm a back-end developer (1.5 years professional experience), who creates, tests and optimizes back-end code. I've worked on small, medium and large projects. Everything from **large e-commerce, SalesForce type of clone, mobile apps for yoga and food, government financial sites and a pharmaceutical information site**.
@@ -35,3 +35,13 @@ I'm passionate about learning and teaching things to others, I've been a private
   <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  
+###  Books
+
+## Currently reading - The Clean Coder by Robert C. Martin
+
+## Read
+Clean Code by Robert C. Martin
+JavaScript The Good Parts by Douglas Crockford
+Cracking the Coding Interview 6th by Gayle L. McDowell
+You Don't Know JS Yet by Kyle Simpson
